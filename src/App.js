@@ -121,7 +121,6 @@ class App extends Component {
         return (
 
             <StyleRoot>
-
                 <div className="App">
                     <h1>Hi, I am React App</h1>
                     <p className={classes.join(' ')}> This is really working!</p>
